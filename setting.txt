@@ -1,0 +1,1 @@
+pic_save_path : /home/swimdi/swimfile/WebAPI/ObjectDetection/client/Temp
